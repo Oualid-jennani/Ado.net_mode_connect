@@ -1,0 +1,12 @@
+C:\Users\Oualid\source\repos\DS_Ado\DS_Ado\obj\Debug\DS_Ado.csprojAssemblyReference.cache
+C:\Users\Oualid\source\repos\DS_Ado\DS_Ado\obj\Debug\DS_Ado.Form1.resources
+C:\Users\Oualid\source\repos\DS_Ado\DS_Ado\obj\Debug\DS_Ado.Properties.Resources.resources
+C:\Users\Oualid\source\repos\DS_Ado\DS_Ado\obj\Debug\DS_Ado.UserControl1.resources
+C:\Users\Oualid\source\repos\DS_Ado\DS_Ado\obj\Debug\DS_Ado.UserControl2.resources
+C:\Users\Oualid\source\repos\DS_Ado\DS_Ado\obj\Debug\DS_Ado.csproj.GenerateResource.cache
+C:\Users\Oualid\source\repos\DS_Ado\DS_Ado\obj\Debug\DS_Ado.csproj.CoreCompileInputs.cache
+C:\Users\Oualid\source\repos\DS_Ado\DS_Ado\bin\Debug\DS_Ado.exe.config
+C:\Users\Oualid\source\repos\DS_Ado\DS_Ado\bin\Debug\DS_Ado.exe
+C:\Users\Oualid\source\repos\DS_Ado\DS_Ado\bin\Debug\DS_Ado.pdb
+C:\Users\Oualid\source\repos\DS_Ado\DS_Ado\obj\Debug\DS_Ado.exe
+C:\Users\Oualid\source\repos\DS_Ado\DS_Ado\obj\Debug\DS_Ado.pdb
